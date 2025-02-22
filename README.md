@@ -17,3 +17,6 @@ Train a regression model (e.g., linear regression, Lasso, Ridge, etc) on trainin
 
 ## Submission
 The prediction on test data, summarized it in y_test.csv file, with similar format as sample_submission.csv, i.e. 1 column indicating patient ID (column name: 'id') and 1 column showing the predicted diabetic level (column name: 'y'). Note the column 'id' should match 'id' in x_test.csv.
+
+## Evaluation
+The evaluation metric reported is MSE (Mean Square Error).
