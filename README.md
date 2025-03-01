@@ -1,4 +1,7 @@
 # Description
+
+See the report file for the full process.
+
 ## Goal
 
 Given physical measurements (features) of a patient, predict his/her diabetic level.
